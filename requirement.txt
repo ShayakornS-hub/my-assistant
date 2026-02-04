@@ -1,7 +1,0 @@
-openai==2.16.0
-streamlit==1.53.1
-python-dotenv==1.0.1
-
-
-# library for images with streamlit
-pillow==11.3.0
